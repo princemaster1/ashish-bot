@@ -1,7 +1,5 @@
 # CATATAN ( NOTE )
-Script ori - DikaArdnt
-Recode - Ashish Bot
-Deploy to heroku 👇☠️
+Deploy to heroku 👇❤️☠️
 Press the following button to deploy in heroku
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=ashish-bot)
 
