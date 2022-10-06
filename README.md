@@ -1,6 +1,20 @@
 # CATATAN ( NOTE )
 Script ori - DikaArdnt
 Recode - Ashish Bot
+Deploy to heroku 👇☠️
+Press the following button to deploy in heroku
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=ashish-bot)
+
+
+
+
+
+
+
+
+
+
+
 
 Jangan dijual kontol!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
